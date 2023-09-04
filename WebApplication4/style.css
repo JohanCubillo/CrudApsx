@@ -1,0 +1,14 @@
+﻿.styled-gridview {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .styled-gridview th, .styled-gridview td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .styled-gridview th {
+        background-color: #f2f2f2;
+    }
